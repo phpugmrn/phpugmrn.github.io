@@ -63,6 +63,9 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/phpugmrn',
+              },              {
+                label: 'Mastodon',
+                href: 'https://phpc.social/@phpugmrn',
               },
               {
                 label: '#phpugmrn PHP UG Slack',
@@ -105,6 +108,16 @@ const config = {
         additionalLanguages: ['php'],
       },
     }),
+
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'me',
+        href: 'https://phpc.social/@phpugmrn',
+      },
+    },
+  ],
 };
 
 module.exports = config;
