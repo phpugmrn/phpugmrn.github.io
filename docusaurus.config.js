@@ -45,9 +45,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'PHP User Group Metropolregion Rhein-Neckar',
         items: [
+          {to: 'https://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/', label: 'Unsere Meetings', position: 'right'},
+          {to: 'https://github.com/phpugmrn/talk-proposals', label: 'Vortrag einreichen', position: 'right'},
         ],
       },
       footer: {

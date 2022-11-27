@@ -16,7 +16,7 @@ const FeatureList = [
     title: 'Meetups',
     description: (
       <>
-        Wir organisieren seit 2015 regelmäßig Meetups in der Metropolregion Rhein-Neckar. Lust mehr über PHP zu erfahren?
+          Wir organisieren seit 2015 regelmäßig Meetups in der <a href="https://www.m-r-n.com">Metropolregion Rhein-Neckar</a>. Lust mehr über PHP zu erfahren?
         Dann komm gerne zu unserem Meetups. Wir freuen uns auf dich!
       </>
     ),
@@ -25,7 +25,7 @@ const FeatureList = [
     title: 'Hackathons',
     description: (
       <>
-        Zusätzlich zu unseren Meetups möchten wir gemeinsam mit euch das machen was uns allen Spaß macht: Entwickeln.<br />
+        Zusätzlich zu unseren <a href="https://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/">Meetups</a> möchten wir gemeinsam mit euch das machen was uns allen Spaß macht: Entwickeln.<br />
       </>
     ),
   },
