@@ -46,19 +46,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "light",
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'PHP User Group Metropolregion Rhein-Neckar',
         items: [
+          {to: '/mastodon', label: 'Unser Mastodon Feed', position: 'right'},
           {to: 'https://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/', label: 'Unsere Meetings', position: 'right'},
           {to: 'https://github.com/phpugmrn/talk-proposals', label: 'Vortrag einreichen', position: 'right'},
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Unsere Community',
@@ -115,6 +116,17 @@ const config = {
         additionalLanguages: ['php'],
       },
     }),
+
+  plugins: [
+    [
+      'docusaurus-plugin-rss-feeds',
+      {
+        feeds: {
+          "mastodon": "https://phpc.social/@phpugmrn.rss"
+        }
+      }
+    ]
+  ],
 
   headTags: [
     {
