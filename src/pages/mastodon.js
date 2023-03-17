@@ -1,11 +1,11 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import useRssFeed from "@theme/useRssFeed";
+import useStoredFeed from "@theme/useStoredFeed";
 import parse from "html-react-parser";
 
 function Mastodon () {
     const maxFeedItems = 10;
-    const feedData = useRssFeed("mastodon");
+    const feedData = useStoredFeed("mastodon");
     const profileTitle = feedData.title;
     const profileLink = feedData.link;
     const profileIcon = feedData.image.url;
