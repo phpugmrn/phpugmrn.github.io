@@ -119,9 +119,9 @@ const config = {
 
   plugins: [
     [
-      'docusaurus-plugin-rss-feeds',
+      '@1password/docusaurus-plugin-stored-data',
       {
-        feeds: {
+        data: {
           "mastodon": "https://phpc.social/@phpugmrn.rss"
         }
       }
