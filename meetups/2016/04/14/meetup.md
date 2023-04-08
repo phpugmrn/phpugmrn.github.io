@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                                                                                                                                          |
 | 19:30   | Beginn/Vorstellungsrunde                                                                                                                                                                          |
-| 19:45   | [Raphael Stolt](https://twitter.com/raphaelstolt): [Push-Start für die PHP Paket Entwicklung mit constructphp](https://speakerdeck.com/raphaelstolt/construct-push-start-php-package-development) |
+| 19:45   | [Push-Start für die PHP Paket Entwicklung mit constructphp](https://speakerdeck.com/raphaelstolt/construct-push-start-php-package-development), [Raphael Stolt](https://twitter.com/raphaelstolt) |
 | 20:30   | kurze Pause                                                                                                                                                                                       |
-| 20:45   | [Rafael Dohms](https://phpc.social/@rdohms): [Composer: The Right Way](https://www.slideshare.net/rdohms/composer-the-right-way-phpugmrn)                                                         |
+| 20:45   | [Composer: The Right Way](https://www.slideshare.net/rdohms/composer-the-right-way-phpugmrn), [Rafael Dohms](https://phpc.social/@rdohms)                                                         |
 | 21:15   | Abschluss                                                                                                                                                                                         |

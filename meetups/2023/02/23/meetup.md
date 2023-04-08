@@ -6,11 +6,11 @@ authors: shochdoerfer
 hide_table_of_contents: true
 ---
 
-| Uhrzeit |                                                                                  | 
-|---------|----------------------------------------------------------------------------------|
-| 19:00   | Ankommen                                                                         |
-| 19:30   | Beginn/Vorstellungsrunde                                                         |
-| 19:45   | [Łukasz Bajsarowicz](https://twitter.com/LBajsarowicz): Mental Health            |
-| 20:30   | kurze Pause                                                                      |
-| 20:45   | [Matthew Setter](https://twitter.com/settermjd): Deploy with Docker Compose      |
-| 21:15   | Abschluss                                                                        |
+| Uhrzeit |                                                                             | 
+|---------|-----------------------------------------------------------------------------|
+| 19:00   | Ankommen                                                                    |
+| 19:30   | Beginn/Vorstellungsrunde                                                    |
+| 19:45   | Mental Health, [Łukasz Bajsarowicz](https://twitter.com/LBajsarowicz)       |
+| 20:30   | kurze Pause                                                                 |
+| 20:45   | Deploy with Docker Compose, [Matthew Setter](https://twitter.com/settermjd) |
+| 21:15   | Abschluss                                                                   |

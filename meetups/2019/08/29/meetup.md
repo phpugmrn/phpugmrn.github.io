@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|-----------------------------------------------------|
 | 19:00   | Ankommen                                            |
 | 19:30   | Beginn/Vorstellungsrunde                            |
-| 19:45   | Karsten Frohwein, Sulu 2.0                          |
+| 19:45   | Sulu 2.0, Karsten Frohwein                          |
 | 20:30   | kurze Pause                                         |
-| 20:45   | Daniel Ruf, Softwarequalität prüfen und verbessern  |
+| 20:45   | Softwarequalität prüfen und verbessern, Daniel Ruf  |
 | 21:15   | Abschluss                                           |

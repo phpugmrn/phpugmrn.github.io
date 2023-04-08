@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                                                                                              |
 | 19:30   | Beginn/Vorstellungsrunde                                                                                                                              |
-| 19:45   | [Claudio Zizza](https://phpc.social/@SenseException): [SPL - Lost in Documentation](https://speakerdeck.com/senseexception/spl-lost-in-documentation) |
+| 19:45   | [SPL - Lost in Documentation](https://speakerdeck.com/senseexception/spl-lost-in-documentation), [Claudio Zizza](https://phpc.social/@SenseException) |
 | 20:30   | kurze Pause                                                                                                                                           |
-| 20:45   | [Marco Pivetta](https://mastodon.social/@ocramius): Improvised Architecture (cqrs/es)                                                                 |
+| 20:45   | Improvised Architecture (cqrs/es), [Marco Pivetta](https://mastodon.social/@ocramius)                                                                 |
 | 21:15   | Abschluss                                                                                                                                             |

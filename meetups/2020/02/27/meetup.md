@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|------------------------------------------------------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                                                                     |
 | 19:30   | Beginn/Vorstellungsrunde                                                                                                     |
-| 19:45   | Thomas Pignede & [Ingo Walther](https://mobile.twitter.com/WaltherIngo): Tame the deployment fear - Deployments mit Deployer |
+| 19:45   | Tame the deployment fear - Deployments mit Deployer, Thomas Pignede & [Ingo Walther](https://mobile.twitter.com/WaltherIngo) |
 | 20:30   | kurze Pause                                                                                                                  |
-| 20:45   | [Simon Brüchner](https://twitter.com/powtac): How to hire remote workers?                                                    |
+| 20:45   | How to hire remote workers?, [Simon Brüchner](https://twitter.com/powtac)                                                    |
 | 21:15   | Abschluss                                                                                                                    |

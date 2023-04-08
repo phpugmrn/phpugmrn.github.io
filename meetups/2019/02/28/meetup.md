@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|-------------------------------------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                                                    |
 | 19:30   | Beginn/Vorstellungsrunde                                                                                    |
-| 19:45   | [Vladimir Reznichenko](https://twitter.com/kalessil): Php inspections (EA Extended): realtime code analysis |
+| 19:45   | Php inspections (EA Extended): realtime code analysis, [Vladimir Reznichenko](https://twitter.com/kalessil) |
 | 20:30   | kurze Pause                                                                                                 |
-| 20:45   | [Christoph Nißle](https://twitter.com/derstoffel): Nicht alle Helden tragen Umhänge                                                       |
+| 20:45   | Nicht alle Helden tragen Umhänge, [Christoph Nißle](https://twitter.com/derstoffel)                         |
 | 21:15   | Abschluss                                                                                                   |

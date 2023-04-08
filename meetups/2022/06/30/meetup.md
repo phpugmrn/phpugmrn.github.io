@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                     |
 | 19:30   | Beginn/Vorstellungsrunde                                                     |
-| 19:45   | [Andreas Heigl](https://phpc.social/@heiglandreas): To .phar or not to .phar |
+| 19:45   | To .phar or not to .phar, [Andreas Heigl](https://phpc.social/@heiglandreas) |
 | 20:30   | kurze Pause                                                                  |
-| 20:45   | [Nico Löber](https://twitter.com/nloeb94): Preview: DDEV for PhpStorm        |
+| 20:45   | Preview: DDEV for PhpStorm, [Nico Löber](https://twitter.com/nloeb94)        |
 | 21:15   | Abschluss                                                                    |

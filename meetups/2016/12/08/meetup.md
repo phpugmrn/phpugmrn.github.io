@@ -10,7 +10,7 @@ hide_table_of_contents: true
 |---------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 19:00   | Ankommen                                                                                                                            |
 | 19:30   | Beginn/Vorstellungsrunde                                                                                                            |
-| 19:45   | [Stephan Hochdörfer](https://phpc.social/@shochdoerfer): [Disco - A Fresh Look at DI](https://talks.bitexpert.de/phpugmrn16-disco/) |
+| 19:45   | [Disco - A Fresh Look at DI](https://talks.bitexpert.de/phpugmrn16-disco/), [Stephan Hochdörfer](https://phpc.social/@shochdoerfer) |
 | 20:30   | kurze Pause                                                                                                                         |
-| 20:45   | [Stephan Hochdörfer](https://phpc.social/@shochdoerfer): 1 Jahr PHPUGMRN Rückblick                                                  |
+| 20:45   | 1 Jahr PHPUGMRN Rückblick, [Stephan Hochdörfer](https://phpc.social/@shochdoerfer)                                                  |
 | 21:15   | Abschluss                                                                                                                           |

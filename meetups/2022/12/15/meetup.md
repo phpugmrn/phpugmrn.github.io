@@ -6,9 +6,9 @@ authors: shochdoerfer
 hide_table_of_contents: true
 ---
 
-| Uhrzeit |                                                      | 
-|---------|------------------------------------------------------|
-| 19:00   | Ankommen                                             |
-| 19:30   | Beginn/Vorstellungsrunde                             |
-| 19:45   | [Adam Culp](https://phpc.social/@adamculp): Packages Anywhere! And They're Yours! |
-| 21:15   | Abschluss                                            |
+| Uhrzeit |                                                                                    | 
+|---------|------------------------------------------------------------------------------------|
+| 19:00   | Ankommen                                                                           |
+| 19:30   | Beginn/Vorstellungsrunde                                                           |
+| 19:45   | Packages Anywhere! And They're Yours!, [Adam Culp](https://phpc.social/@adamculp)  |
+| 21:15   | Abschluss                                                                          |
