@@ -34,7 +34,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: false,
-        blog: false,
+        blog: {
+          blogTitle: 'Unsere Meetups',
+          blogDescription: 'Die Meetups der PHP User Group Metropolregion Rhein-Neckar',
+          blogSidebarTitle: 'Letzte Meetups',
+          showReadingTime: false,
+          routeBasePath: 'meetups',
+          path: './meetups',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -53,9 +60,9 @@ const config = {
       navbar: {
         title: 'PHP User Group Metropolregion Rhein-Neckar',
         items: [
-          {to: '/mastodon', label: 'Unser Mastodon Feed', position: 'right'},
-          {to: 'https://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/', label: 'Unsere Meetings', position: 'right'},
+          {to: 'meetups', label: 'Unsere Meetings', position: 'right'},
           {to: 'https://github.com/phpugmrn/talk-proposals', label: 'Vortrag einreichen', position: 'right'},
+          {to: '/mastodon', label: 'Unser Mastodon Feed', position: 'right'},
         ],
       },
       footer: {

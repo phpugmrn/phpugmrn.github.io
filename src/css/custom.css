@@ -15,6 +15,10 @@
   --ifm-color-primary-lightest: #1694BE;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-table-background: #FFF;
+  --ifm-table-border-color: #FFF;
+  --ifm-table-stripe-background: #FFF;
+  --ifm-table-cell-padding: 0.1rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,4 +31,7 @@
   --ifm-color-primary-lighter: #1694BE;
   --ifm-color-primary-lightest: #1694BE;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-table-background: #000;
+  --ifm-table-border-color: #000;
+  --ifm-table-stripe-background: #000;
 }
