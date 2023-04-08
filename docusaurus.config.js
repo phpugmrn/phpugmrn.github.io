@@ -35,6 +35,9 @@ const config = {
       ({
         docs: false,
         blog: {
+          blogTitle: 'Unsere Meetups',
+          blogDescription: 'Die Meetups der PHP User Group Metropolregion Rhein-Neckar',
+          blogSidebarTitle: 'Letzte Meetups',
           showReadingTime: false,
           routeBasePath: 'meetups',
           path: './meetups',
