@@ -41,6 +41,7 @@ const config = {
           showReadingTime: false,
           routeBasePath: 'meetups',
           path: './meetups',
+          editUrl: 'https://github.com/phpugmrn/phpugmrn.github.io/tree/main/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
