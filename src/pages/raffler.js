@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import Layout from '@theme/Layout';
 import { Wheel } from 'react-custom-roulette'
-import { Formik, Form, Field, FieldArray } from 'formik';
+import ConfettiExplosion from 'react-confetti-explosion'
+import { Formik, Form, Field, FieldArray } from 'formik'
 
 function getRandomRolor() {
     var color = "#";
@@ -12,12 +13,12 @@ function getRandomRolor() {
 }
 
 function Raffler () {
-    // https://github.com/effectussoftware/react-custom-roulette
     const [mustSpin, setMustSpin] = useState(false);
     const [prizeNumber, setPrizeNumber] = useState(0);
-    const [participants, setParticipants] = useState([{option: ''}]);
+    const [participants, setParticipants] = useState([{option: ''}, {option: ''}, {option: ''}]);
+    const [isExploding, setIsExploding] = React.useState(false);
 
-    const handleSpinClick = (values) => {
+    const handleStartSpinningClick = (values) => {
         if (!mustSpin) {
             const newPrizeNumber = Math.floor(Math.random() * values.participants.length);
             setParticipants(values.participants);
@@ -44,7 +45,7 @@ function Raffler () {
                         <div className="col col--3">
                             <Formik
                                 initialValues={{ participants: [{option: '', style: { backgroundColor: getRandomRolor()}}] }}
-                                onSubmit={handleSpinClick}
+                                onSubmit={handleStartSpinningClick}
                                 render={({ values }) => (
                                     <Form>
                                         <FieldArray
@@ -81,6 +82,16 @@ function Raffler () {
                             />
                         </div>
                         <div className="col col--6">
+                            {isExploding &&
+                                <ConfettiExplosion
+                                    force={0.8}
+                                    duration={3000}
+                                    particleCount={250}
+                                    width={1600}
+                                    onComplete={() => {
+                                        setIsExploding(false);
+                                    }}
+                                />}
                             <Wheel
                                 mustStartSpinning={mustSpin}
                                 prizeNumber={prizeNumber}
@@ -88,6 +99,7 @@ function Raffler () {
                                 perpendicularText={true}
                                 onStopSpinning={() => {
                                     setMustSpin(false);
+                                    setIsExploding(true);
                                 }}
                             />
                         </div>
