@@ -1,0 +1,100 @@
+import React, { useState } from 'react'
+import Layout from '@theme/Layout';
+import { Wheel } from 'react-custom-roulette'
+import { Formik, Form, Field, FieldArray } from 'formik';
+
+function getRandomRolor() {
+    var color = "#";
+    for (var i = 0; i < 6; i++) {
+        color += Math.floor(Math.random() * 10);
+    }
+    return color;
+}
+
+function Raffler () {
+    // https://github.com/effectussoftware/react-custom-roulette
+    const [mustSpin, setMustSpin] = useState(false);
+    const [prizeNumber, setPrizeNumber] = useState(0);
+    const [participants, setParticipants] = useState([{option: ''}]);
+
+    const handleSpinClick = (values) => {
+        if (!mustSpin) {
+            const newPrizeNumber = Math.floor(Math.random() * values.participants.length);
+            setParticipants(values.participants);
+            setPrizeNumber(newPrizeNumber);
+            setMustSpin(true);
+        }
+    }
+
+    return (
+        <Layout
+            title="PHPUGMRN Raffler"
+            description="Raffle Tool"
+        >
+            <main>
+                <div className="container margin-vert--lg">
+                    <div className="row">
+                        <div className="col col--3"></div>
+                        <div className="col col--9">
+                            <h2>PHPUGMRN Raffler</h2>
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col col--3"></div>
+                        <div className="col col--3">
+                            <Formik
+                                initialValues={{ participants: [{option: '', style: { backgroundColor: getRandomRolor()}}] }}
+                                onSubmit={handleSpinClick}
+                                render={({ values }) => (
+                                    <Form>
+                                        <FieldArray
+                                            name="participants"
+                                            render={arrayHelpers => (
+                                                <div>
+                                                    <div className="margin-bottom--sm">
+                                                        <button className="button button--primary" type="submit">Let's go</button>
+                                                    </div>
+                                                    {(
+                                                        values.participants.map((friend, index) => (
+                                                            <div key={index}>
+                                                                <Field name={`participants.${index}.option`} />
+                                                                <button
+                                                                    type="button"
+                                                                    onClick={() => arrayHelpers.remove(index)} // remove participant from the list
+                                                                >
+                                                                    -
+                                                                </button>
+                                                                <button
+                                                                    type="button"
+                                                                    onClick={() => arrayHelpers.insert(index, {option: '', style: { backgroundColor: getRandomRolor()}})} // insert an empty string at a position
+                                                                >
+                                                                    +
+                                                                </button>
+                                                            </div>
+                                                        ))
+                                                    )}
+                                                </div>
+                                            )}
+                                        />
+                                    </Form>
+                                )}
+                            />
+                        </div>
+                        <div className="col col--6">
+                            <Wheel
+                                mustStartSpinning={mustSpin}
+                                prizeNumber={prizeNumber}
+                                data={participants}
+                                perpendicularText={true}
+                                onStopSpinning={() => {
+                                    setMustSpin(false);
+                                }}
+                            />
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </Layout>
+    );
+}
+export default Raffler;
