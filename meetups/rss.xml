@@ -4,10 +4,18 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 27 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[PHPUGMRN 03/23]]></title>
+            <link>https://www.phpugmrn.de/meetups/20230629</link>
+            <guid>https://www.phpugmrn.de/meetups/20230629</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 03/23 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Elasticsuite &amp; Gally, Pierre Gauthier</td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Diving into Elasticsearch, Ronny Ecke</td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 02/23]]></title>
             <link>https://www.phpugmrn.de/meetups/20230427</link>
