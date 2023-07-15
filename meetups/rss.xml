@@ -4,10 +4,18 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 29 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[PHPUGMRN 04/23]]></title>
+            <link>https://www.phpugmrn.de/meetups/20230831</link>
+            <guid>https://www.phpugmrn.de/meetups/20230831</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 04/23 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Converting a legacy app to API Platform, <a href="https://twitter.com/BoasFalke" target="_blank" rel="noopener noreferrer">Boas Falke</a> &amp; <a href="https://twitter.com/bitHolger" target="_blank" rel="noopener noreferrer">Holger Dörner</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Dynamic Image Scaling with imgproxy, <a href="https://twitter.com/shakalandy" target="_blank" rel="noopener noreferrer">Andreas Lehr</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 03/23]]></title>
             <link>https://www.phpugmrn.de/meetups/20230629</link>
