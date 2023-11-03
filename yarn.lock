@@ -4448,10 +4448,10 @@ html-minifier-terser@^6.0.2, html-minifier-terser@^6.1.0:
     relateurl "^0.2.7"
     terser "^5.10.0"
 
-html-react-parser@^5.0.4:
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.0.4.tgz#1969578010852c2bf863c2dfb7188e421d228f79"
-  integrity sha512-ByG9ORLsfCjr7nrmyRIVyMAXlPjdv7xaV78tlPa5y5JqzrgY195kpF6FKAZ22pWmpsFcFVkh7Lq/pUANoeonGQ==
+html-react-parser@^5.0.5:
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.0.5.tgz#b07581c1a2ed3d927d1630d4db7006a6dce07119"
+  integrity sha512-quhMjFwjIncXdvilOyAmU9zW6tp4HrPqASuL6fn7LxqPWrwu68k6seYP+4LB737mEfWG+WjfYMCencQSFrEXlQ==
   dependencies:
     domhandler "5.0.3"
     html-dom-parser "5.0.4"
