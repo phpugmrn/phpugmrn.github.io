@@ -1,6 +1,6 @@
 # Website
 
-This [website](https://www.phpugmrn.de) is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This [website](https://www.phpugmrn.de) is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
 ## Local Development
 
