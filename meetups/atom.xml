@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.phpugmrn.de/meetups</id>
     <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
-    <updated>2023-12-14T00:00:00.000Z</updated>
+    <updated>2024-02-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.phpugmrn.de/meetups"/>
     <subtitle>PHP User Group Metropolregion Rhein-Neckar Blog</subtitle>
     <icon>https://www.phpugmrn.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PHPUGMRN 01/24]]></title>
+        <id>https://www.phpugmrn.de/meetups/20230224</id>
+        <link href="https://www.phpugmrn.de/meetups/20230224"/>
+        <updated>2024-02-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPUGMRN 01/24 Meetup]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>tbd, <a href="https://phpc.social/@movetodevnull" target="_blank" rel="noopener noreferrer">Sebastian Feldmann</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>tbd</td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Stephan Hochdörfer</name>
+            <uri>https://github.com/shochdoerfer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHPUGMRN 06/23]]></title>
         <id>https://www.phpugmrn.de/meetups/20231214</id>
@@ -230,18 +242,6 @@
         <updated>2020-12-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PHPUGMRN 06/20 Meetup]]></summary>
         <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://presentations.garfieldtech.com/slides-containers-lie/rheinnekarug2020/#/" target="_blank" rel="noopener noreferrer">The Container Is a Lie!</a>, <a href="https://phpc.social/@Crell" target="_blank" rel="noopener noreferrer">Larry Garfield</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://speakerdeck.com/leichteckig/flaky-tests-fighting-nightmares-60a9a604-cbce-4ad1-8a10-664fed9d1a8b" target="_blank" rel="noopener noreferrer">Flaky Tests - Fighting nightmares</a>, <a href="https://vue.land/@leichteckig" target="_blank" rel="noopener noreferrer">Ramona Schwering</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
-        <author>
-            <name>Stephan Hochdörfer</name>
-            <uri>https://github.com/shochdoerfer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPUGMRN 05/20]]></title>
-        <id>https://www.phpugmrn.de/meetups/20201029</id>
-        <link href="https://www.phpugmrn.de/meetups/20201029"/>
-        <updated>2020-10-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHPUGMRN 05/20 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://speakerdeck.com/pelshoff/the-developers-model-v2" target="_blank" rel="noopener noreferrer">The Developer's Model for Talking to Managers</a>, <a href="https://twitter.com/Pelshoff" target="_blank" rel="noopener noreferrer">Pim Elshoff</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Framework Factors: Choosing the Right Framework for Your Project, <a href="https://phpc.social/@mwop" target="_blank" rel="noopener noreferrer">Matthew Weier O'Phinney</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
         <author>
             <name>Stephan Hochdörfer</name>
             <uri>https://github.com/shochdoerfer</uri>
