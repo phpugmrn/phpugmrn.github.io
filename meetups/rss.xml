@@ -4,10 +4,20 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 29 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Sylius Days 2024]]></title>
+            <link>https://www.phpugmrn.de/meetups/sylius_days_2024</link>
+            <guid>https://www.phpugmrn.de/meetups/sylius_days_2024</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sylius Days 2024]]></description>
+            <content:encoded><![CDATA[<p>Jointly together with our sponsor <a href="https://www.bitexpert.de/" target="_blank" rel="noopener noreferrer">bitExpert AG</a> we'll organize the second edition of <a href="https://sylius.com/sylius-days/" target="_blank" rel="noopener noreferrer">Sylius Days</a> on April 18-19 in Mannheim.</p>
+<p>The first day will include interactive workshops to help you better understand the <a href="https://github.com/Sylius/Sylius" target="_blank" rel="noopener noreferrer">Sylius platform</a>. This will be followed by a day filled with insightful presentations, networking opportunities, and of course, an after-party!</p>
+<p>Interested in contributing or sponsoring? Don't hesitate to reach out to the <a href="https://sylius.com/sylius-days/" target="_blank" rel="noopener noreferrer">Sylius</a> or the <a href="https://www.bitexpert.de/" target="_blank" rel="noopener noreferrer">bitExpert</a> team.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 01/24]]></title>
             <link>https://www.phpugmrn.de/meetups/20230224</link>
@@ -159,14 +169,6 @@
             <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 01/21 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://www.versioneye.com/de/" target="_blank" rel="noopener noreferrer">Versioneye 2.0</a>, <a href="https://twitter.com/RobertReiz" target="_blank" rel="noopener noreferrer">Robert Reiz</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Elasticsearch &amp; PHP, <a href="https://twitter.com/ezimuel" target="_blank" rel="noopener noreferrer">Enrico Zimuel</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 06/20]]></title>
-            <link>https://www.phpugmrn.de/meetups/20201210</link>
-            <guid>https://www.phpugmrn.de/meetups/20201210</guid>
-            <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 06/20 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://presentations.garfieldtech.com/slides-containers-lie/rheinnekarug2020/#/" target="_blank" rel="noopener noreferrer">The Container Is a Lie!</a>, <a href="https://phpc.social/@Crell" target="_blank" rel="noopener noreferrer">Larry Garfield</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://speakerdeck.com/leichteckig/flaky-tests-fighting-nightmares-60a9a604-cbce-4ad1-8a10-664fed9d1a8b" target="_blank" rel="noopener noreferrer">Flaky Tests - Fighting nightmares</a>, <a href="https://vue.land/@leichteckig" target="_blank" rel="noopener noreferrer">Ramona Schwering</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
