@@ -22,6 +22,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PHPUGMRN 02/24]]></title>
+        <id>https://www.phpugmrn.de/meetups/20230417</id>
+        <link href="https://www.phpugmrn.de/meetups/20230417"/>
+        <updated>2024-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPUGMRN 02/24 Meetup]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Demystify the magic of Dependency Injection, <a href="https://twitter.com/Cadien1" target="_blank" rel="noopener noreferrer">Oliver Kossin</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>tbd.</td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Stephan Hochdörfer</name>
+            <uri>https://github.com/shochdoerfer</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PHPUGMRN 01/24]]></title>
         <id>https://www.phpugmrn.de/meetups/20230224</id>
         <link href="https://www.phpugmrn.de/meetups/20230224"/>
@@ -232,18 +244,6 @@
         <updated>2021-04-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PHPUGMRN 02/21 Meetup]]></summary>
         <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://speakerdeck.com/cadien/sulu-cms-as-a-full-headless-solution" target="_blank" rel="noopener noreferrer">Sulu CMS as a full headless solution</a>, <a href="https://twitter.com/cadien1" target="_blank" rel="noopener noreferrer">Oliver Kossin</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://speakerdeck.com/wachterjohannes/sylius-and-sulu-commerce-and-content" target="_blank" rel="noopener noreferrer">Content-Commerce with Sulu+Sylius</a>, <a href="https://twitter.com/wachterjohannes" target="_blank" rel="noopener noreferrer">Johannes Wachter</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
-        <author>
-            <name>Stephan Hochdörfer</name>
-            <uri>https://github.com/shochdoerfer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPUGMRN 01/21]]></title>
-        <id>https://www.phpugmrn.de/meetups/20210225</id>
-        <link href="https://www.phpugmrn.de/meetups/20210225"/>
-        <updated>2021-02-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHPUGMRN 01/21 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://www.versioneye.com/de/" target="_blank" rel="noopener noreferrer">Versioneye 2.0</a>, <a href="https://twitter.com/RobertReiz" target="_blank" rel="noopener noreferrer">Robert Reiz</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Elasticsearch &amp; PHP, <a href="https://twitter.com/ezimuel" target="_blank" rel="noopener noreferrer">Enrico Zimuel</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
         <author>
             <name>Stephan Hochdörfer</name>
             <uri>https://github.com/shochdoerfer</uri>
