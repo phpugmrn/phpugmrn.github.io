@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "@1password/docusaurus-plugin-stored-data": "^0.1.0",
-    "@docusaurus/core": "^3.2.0",
-    "@docusaurus/preset-classic": "^3.2.0",
+    "@docusaurus/core": "^3.2.1",
+    "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/react": "^3.0.1",
     "clsx": "^2.1.0",
     "formik": "^2.4.5",
@@ -28,7 +28,7 @@
     "react-dom": "^18.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.2.0"
+    "@docusaurus/module-type-aliases": "^3.2.1"
   },
   "browserslist": {
     "production": [
