@@ -1,6 +1,6 @@
 # phpugmrn Website
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/108462886006380689?domain=https://phpc.social)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/108462886006380689?domain=https://phpc.social)](https://phpc.social/@phpugmrn)
 
 This [website](https://www.phpugmrn.de) is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
