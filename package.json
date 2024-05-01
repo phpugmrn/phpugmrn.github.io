@@ -14,7 +14,7 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@1password/docusaurus-plugin-stored-data": "^0.1.0",
+    "@1password/docusaurus-plugin-stored-data": "^1.0.0",
     "@docusaurus/core": "^3.2.1",
     "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/react": "^3.0.1",
