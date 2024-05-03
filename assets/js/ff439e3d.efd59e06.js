@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphpugmrn_web=self.webpackChunkphpugmrn_web||[]).push([[8703],{4015:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/meetups/page/6","page":6,"postsPerPage":10,"totalPages":6,"totalCount":52,"previousPage":"/meetups/page/5","blogDescription":"Die Meetups der PHP User Group Metropolregion Rhein-Neckar","blogTitle":"Unsere Meetups"}}')}}]);
