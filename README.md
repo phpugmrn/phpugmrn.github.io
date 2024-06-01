@@ -20,4 +20,4 @@ $ yarn start
 
 ### Deployment
 
-Changes will be deployed automatically when the respective Merge Request gets merged into the main branch.
+Changes will be deployed automatically when the respective Pull Request gets merged into the main branch.
