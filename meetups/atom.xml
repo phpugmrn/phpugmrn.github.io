@@ -27,7 +27,7 @@
         <link href="https://www.phpugmrn.de/meetups/20230417"/>
         <updated>2024-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PHPUGMRN 02/24 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Demystify the magic of Dependency Injection, <a href="https://twitter.com/Cadien1" target="_blank" rel="noopener noreferrer">Oliver Kossin</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>tbd.</td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Demystify the magic of Dependency Injection, <a href="https://twitter.com/Cadien1" target="_blank" rel="noopener noreferrer">Oliver Kossin</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Domain-Driven Design: The Basics, <a href="https://phpc.social/@skoop" target="_blank" rel="noopener noreferrer">Stefan Koopmanschap</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
         <author>
             <name>Stephan Hochdörfer</name>
             <uri>https://github.com/shochdoerfer</uri>
