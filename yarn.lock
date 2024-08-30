@@ -4572,10 +4572,10 @@ hpack.js@^2.1.6:
     readable-stream "^2.0.1"
     wbuf "^1.1.0"
 
-html-dom-parser@5.0.9:
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/html-dom-parser/-/html-dom-parser-5.0.9.tgz#8c600e3407340c9a148cc8b3bf9bc390948cd9c1"
-  integrity sha512-QGeoFYwgQ582EDvrBx0+ejIz76/LuQcwwkmSR4ueKncjl2yWbciA45Kfz/LrHvWR3CgtKnxKFkr4Mpq2Sh1QNg==
+html-dom-parser@5.0.10:
+  version "5.0.10"
+  resolved "https://registry.yarnpkg.com/html-dom-parser/-/html-dom-parser-5.0.10.tgz#bf46b05c50f35c2fcadfc8e91566c54d3caf9bd7"
+  integrity sha512-GwArYL3V3V8yU/mLKoFF7HlLBv80BZ2Ey1BzfVNRpAci0cEKhFHI/Qh8o8oyt3qlAMLlK250wsxLdYX4viedvg==
   dependencies:
     domhandler "5.0.3"
     htmlparser2 "9.1.0"
@@ -4616,13 +4616,13 @@ html-minifier-terser@^7.2.0:
     relateurl "^0.2.7"
     terser "^5.15.1"
 
-html-react-parser@^5.1.14:
-  version "5.1.14"
-  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.1.14.tgz#ab53a7ec2443facf3c783ced2360c7602abf8454"
-  integrity sha512-/37mevKAK5TOXgeSC2y9Wn4RgtvHHheefxJGeJvdUk+sJ68CORoH+2z4Qbh6trSOhslcBYOWsJrqSS61Ikbrvw==
+html-react-parser@^5.1.15:
+  version "5.1.15"
+  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.1.15.tgz#f3121f31434ba5a84d06c8849e2e6fe0f64eed20"
+  integrity sha512-LRwSTseAZtdtzYbBaN0a+pJ48x4qmwPzQC5tvwAp9IvuNf7afxtTHLpCPYCsVjRKRUqhXvfjTaKJJrhctxkHJA==
   dependencies:
     domhandler "5.0.3"
-    html-dom-parser "5.0.9"
+    html-dom-parser "5.0.10"
     react-property "2.0.2"
     style-to-js "1.1.13"
 
