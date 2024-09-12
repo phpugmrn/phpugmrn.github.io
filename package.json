@@ -21,7 +21,7 @@
     "clsx": "^2.1.1",
     "formik": "^2.4.6",
     "html-react-parser": "^5.1.16",
-    "prism-react-renderer": "^1.3.5",
+    "prism-react-renderer": "^2.4.0",
     "react": "^18.3",
     "react-confetti-explosion": "^2.1.2",
     "react-custom-roulette": "^1.4.0",
