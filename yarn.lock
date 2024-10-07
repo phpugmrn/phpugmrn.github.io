@@ -4616,15 +4616,15 @@ html-minifier-terser@^7.2.0:
     relateurl "^0.2.7"
     terser "^5.15.1"
 
-html-react-parser@^5.1.17:
-  version "5.1.17"
-  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.1.17.tgz#e6883ddd6fc49cb241f606169daac1f769c2ea44"
-  integrity sha512-0EVE9l3xDXe5CDDAe7d0fecn7M8Iqe1K2nxNVUPQXo9yn2P1CFgUBbUMYus/FddFKv8YFkjXOBC7G/SoHnQBHQ==
+html-react-parser@^5.1.18:
+  version "5.1.18"
+  resolved "https://registry.yarnpkg.com/html-react-parser/-/html-react-parser-5.1.18.tgz#a07ff6d95fcaa6de45244386a12dddb981434915"
+  integrity sha512-65BwC0zzrdeW96jB2FRr5f1ovBhRMpLPJNvwkY5kA8Ay5xdL9t/RH2/uUTM7p+cl5iM88i6dDk4LXtfMnRmaJQ==
   dependencies:
     domhandler "5.0.3"
     html-dom-parser "5.0.10"
     react-property "2.0.2"
-    style-to-js "1.1.15"
+    style-to-js "1.1.16"
 
 html-tags@^3.3.1:
   version "3.3.1"
@@ -8014,10 +8014,10 @@ strnum@^1.0.5:
   resolved "https://registry.yarnpkg.com/strnum/-/strnum-1.0.5.tgz#5c4e829fe15ad4ff0d20c3db5ac97b73c9b072db"
   integrity sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA==
 
-style-to-js@1.1.15:
-  version "1.1.15"
-  resolved "https://registry.yarnpkg.com/style-to-js/-/style-to-js-1.1.15.tgz#4283109ae8dc8653aa2aa73a9a94d502de69c977"
-  integrity sha512-NCDBM/WB5v+nwT145u0qJCJ4arjRcp6YFnz5/1RynPVGYtpSQNy7rCzQIyboAKx2M6sISkZVyb/8La3E6vNkDQ==
+style-to-js@1.1.16:
+  version "1.1.16"
+  resolved "https://registry.yarnpkg.com/style-to-js/-/style-to-js-1.1.16.tgz#e6bd6cd29e250bcf8fa5e6591d07ced7575dbe7a"
+  integrity sha512-/Q6ld50hKYPH3d/r6nr117TZkHR0w0kGGIVfpG9N6D8NymRPM9RqCUv4pRpJ62E5DqOYx2AFpbZMyCPnjQCnOw==
   dependencies:
     style-to-object "1.0.8"
 
