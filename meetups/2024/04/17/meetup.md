@@ -1,7 +1,7 @@
 ---
 title: PHPUGMRN 02/24
 description: PHPUGMRN 02/24 Meetup
-slug: 2023_04_17
+slug: 2024_04_17
 authors: shochdoerfer
 hide_table_of_contents: true
 ---
