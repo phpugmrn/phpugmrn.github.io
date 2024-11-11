@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkphpugmrn_web=self.webpackChunkphpugmrn_web||[]).push([[226],{90:e=>{e.exports=JSON.parse('{"authors":[{"name":"Stephan Hochd\xf6rfer","url":"https://github.com/shochdoerfer","imageURL":"/img/authors/shochdoerfer.jpg","key":"shochdoerfer","page":null,"count":54}]}')}}]);
