@@ -4,22 +4,30 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 29 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <item>
+            <title><![CDATA[PHPUGMRN 06/24]]></title>
+            <link>https://www.phpugmrn.de/meetups/20241212</link>
+            <guid>https://www.phpugmrn.de/meetups/20241212</guid>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 06/24 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:15</td><td>Sylius, the wrong way, Stéphane Decock</td></tr><tr><td>20:00</td><td>kurze Pause</td></tr><tr><td>20:25</td><td>Credit Report &amp; Fraud Detection with SCHUFA Plugin, Boas Falke</td></tr><tr><td>20:45</td><td>kurze Pause</td></tr><tr><td>21:00</td><td>Handling Background Processing in Sylius, Łukasz Chruściel</td></tr><tr><td>21:45</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[PHPUGMRN 04/24]]></title>
-            <link>https://www.phpugmrn.de/meetups/20230829</link>
-            <guid>https://www.phpugmrn.de/meetups/20230829</guid>
+            <link>https://www.phpugmrn.de/meetups/20240829</link>
+            <guid>https://www.phpugmrn.de/meetups/20240829</guid>
             <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 04/24 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Strukturierte Daten (schema.org), <a href="https://phpc.social/@brotkrueml" target="_blank" rel="noopener noreferrer">Chris Müller</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Lazy objects in PHP and Symfony, <a href="https://phpc.social/@nicolasgrekas" target="_blank" rel="noopener noreferrer">Nicolas Grekas</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PHPUGMRN 03/24]]></title>
-            <link>https://www.phpugmrn.de/meetups/20230627</link>
-            <guid>https://www.phpugmrn.de/meetups/20230627</guid>
+            <link>https://www.phpugmrn.de/meetups/20240627</link>
+            <guid>https://www.phpugmrn.de/meetups/20240627</guid>
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 03/24 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>tbd.</td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>tbd.</td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
@@ -36,16 +44,16 @@
         </item>
         <item>
             <title><![CDATA[PHPUGMRN 02/24]]></title>
-            <link>https://www.phpugmrn.de/meetups/20230417</link>
-            <guid>https://www.phpugmrn.de/meetups/20230417</guid>
+            <link>https://www.phpugmrn.de/meetups/20240417</link>
+            <guid>https://www.phpugmrn.de/meetups/20240417</guid>
             <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 02/24 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Demystify the magic of Dependency Injection, <a href="https://twitter.com/Cadien1" target="_blank" rel="noopener noreferrer">Oliver Kossin</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Domain-Driven Design: The Basics, <a href="https://phpc.social/@skoop" target="_blank" rel="noopener noreferrer">Stefan Koopmanschap</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PHPUGMRN 01/24]]></title>
-            <link>https://www.phpugmrn.de/meetups/20230224</link>
-            <guid>https://www.phpugmrn.de/meetups/20230224</guid>
+            <link>https://www.phpugmrn.de/meetups/20240224</link>
+            <guid>https://www.phpugmrn.de/meetups/20240224</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 01/24 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>In the year 2525..., <a href="https://phpc.social/@heiglandreas" target="_blank" rel="noopener noreferrer">Andreas Heigl</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>FrankenPHP Intro, <a href="https://phpc.social/@hariboas" target="_blank" rel="noopener noreferrer">Boas Falke</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
@@ -161,14 +169,6 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 05/21 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>PHP Development on Windows Subsystem for Linux, <a href="https://phpc.social/@joepferguson" target="_blank" rel="noopener noreferrer">Joe Ferguson</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://noti.st/lornajane/19mifK" target="_blank" rel="noopener noreferrer">Aiven for Laravel</a>, <a href="https://twitter.com/lornajane" target="_blank" rel="noopener noreferrer">Lorna Mitchell</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 04/21]]></title>
-            <link>https://www.phpugmrn.de/meetups/20210826</link>
-            <guid>https://www.phpugmrn.de/meetups/20210826</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 04/21 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Using elks and large telegraph poles to squash tiny bugs, <a href="https://phpc.social/@bcremer" target="_blank" rel="noopener noreferrer">Benjamin Cremer</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://matthiasnoback.nl/talk/rector-fireside-chat/" target="_blank" rel="noopener noreferrer">RectorPHP fireside chat</a>, <a href="https://mastodon.social/@matthiasnoback" target="_blank" rel="noopener noreferrer">Matthias Noback</a> &amp; <a href="https://phpc.social/@votrubaT" target="_blank" rel="noopener noreferrer">Tomas Votruba</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
