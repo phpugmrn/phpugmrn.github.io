@@ -29,7 +29,7 @@
     "react-dom": "^18.3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.6.1"
+    "@docusaurus/module-type-aliases": "^3.6.2"
   },
   "browserslist": {
     "production": [
