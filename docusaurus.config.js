@@ -77,15 +77,8 @@ const config = {
                 href: 'https://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/phpugmrn',
-              },              {
                 label: 'Mastodon',
                 href: 'https://phpc.social/@phpugmrn',
-              },
-              {
-                label: '#phpugmrn PHP UG Slack',
-                href: 'https://phpug.slack.com/',
               },
             ],
           },
