@@ -39,6 +39,7 @@ const config = {
           blogDescription: 'Die Meetups der PHP User Group Metropolregion Rhein-Neckar',
           blogSidebarTitle: 'Letzte Meetups',
           showReadingTime: false,
+          onUntruncatedBlogPosts: 'ignore',
           routeBasePath: 'meetups',
           path: './meetups',
           editUrl: 'https://github.com/phpugmrn/phpugmrn.github.io/tree/main/'
