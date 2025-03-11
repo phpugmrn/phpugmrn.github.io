@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.phpugmrn.de/meetups</id>
     <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
-    <updated>2024-12-12T00:00:00.000Z</updated>
+    <updated>2025-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.phpugmrn.de/meetups"/>
     <subtitle>PHP User Group Metropolregion Rhein-Neckar Blog</subtitle>
     <icon>https://www.phpugmrn.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PHPUGMRN 02/25]]></title>
+        <id>https://www.phpugmrn.de/meetups/20250424</id>
+        <link href="https://www.phpugmrn.de/meetups/20250424"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPUGMRN 02/25 Meetup]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>AI for developers (discussion), Thomas Kessler</td></tr><tr><td>20:30</td><td>Abschluss</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Stephan Hochdörfer</name>
+            <uri>https://github.com/shochdoerfer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPUGMRN 01/25]]></title>
+        <id>https://www.phpugmrn.de/meetups/20250227</id>
+        <link href="https://www.phpugmrn.de/meetups/20250227"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPUGMRN 01/25 Meetup]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Revolutionizing the printing industry with the help of PHP, Tobias Köngeter</td></tr><tr><td>20:30</td><td>Abschluss</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Stephan Hochdörfer</name>
+            <uri>https://github.com/shochdoerfer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHPUGMRN 06/24]]></title>
         <id>https://www.phpugmrn.de/meetups/20241212</id>
@@ -220,30 +244,6 @@
         <updated>2022-02-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PHPUGMRN 01/22 Meetup]]></summary>
         <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Unit testing 101 (Interactive Session), <a href="https://phpc.social/@jaapio" target="_blank" rel="noopener noreferrer">Jaap Van Otterdijk</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://senseexception.github.io/schroedingers-sql/unkonf/" target="_blank" rel="noopener noreferrer">Schrödinger's SQL - The SQL inside the ORM/Builder box</a>, <a href="https://phpc.social/@SenseException" target="_blank" rel="noopener noreferrer">Claudio Zizza</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
-        <author>
-            <name>Stephan Hochdörfer</name>
-            <uri>https://github.com/shochdoerfer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPUGMRN 06/21]]></title>
-        <id>https://www.phpugmrn.de/meetups/20211209</id>
-        <link href="https://www.phpugmrn.de/meetups/20211209"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHPUGMRN 06/21 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>API Horror Stories of an Unnamed Coworking Company, <a href="https://mastodon.green/@Philsturgeon" target="_blank" rel="noopener noreferrer">Phil Sturgeon</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>What’s New in PHPStan 1.0, <a href="https://phpc.social/@OndrejMirtes" target="_blank" rel="noopener noreferrer">Ondřej Mirtes</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
-        <author>
-            <name>Stephan Hochdörfer</name>
-            <uri>https://github.com/shochdoerfer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPUGMRN 05/21]]></title>
-        <id>https://www.phpugmrn.de/meetups/20211028</id>
-        <link href="https://www.phpugmrn.de/meetups/20211028"/>
-        <updated>2021-10-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHPUGMRN 05/21 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>PHP Development on Windows Subsystem for Linux, <a href="https://phpc.social/@joepferguson" target="_blank" rel="noopener noreferrer">Joe Ferguson</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://noti.st/lornajane/19mifK" target="_blank" rel="noopener noreferrer">Aiven for Laravel</a>, <a href="https://twitter.com/lornajane" target="_blank" rel="noopener noreferrer">Lorna Mitchell</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
         <author>
             <name>Stephan Hochdörfer</name>
             <uri>https://github.com/shochdoerfer</uri>

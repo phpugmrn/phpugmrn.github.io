@@ -4,10 +4,26 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 12 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[PHPUGMRN 02/25]]></title>
+            <link>https://www.phpugmrn.de/meetups/20250424</link>
+            <guid>https://www.phpugmrn.de/meetups/20250424</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 02/25 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>AI for developers (discussion), Thomas Kessler</td></tr><tr><td>20:30</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PHPUGMRN 01/25]]></title>
+            <link>https://www.phpugmrn.de/meetups/20250227</link>
+            <guid>https://www.phpugmrn.de/meetups/20250227</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 01/25 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Revolutionizing the printing industry with the help of PHP, Tobias Köngeter</td></tr><tr><td>20:30</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 06/24]]></title>
             <link>https://www.phpugmrn.de/meetups/20241212</link>
@@ -153,22 +169,6 @@
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 01/22 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Unit testing 101 (Interactive Session), <a href="https://phpc.social/@jaapio" target="_blank" rel="noopener noreferrer">Jaap Van Otterdijk</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://senseexception.github.io/schroedingers-sql/unkonf/" target="_blank" rel="noopener noreferrer">Schrödinger's SQL - The SQL inside the ORM/Builder box</a>, <a href="https://phpc.social/@SenseException" target="_blank" rel="noopener noreferrer">Claudio Zizza</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 06/21]]></title>
-            <link>https://www.phpugmrn.de/meetups/20211209</link>
-            <guid>https://www.phpugmrn.de/meetups/20211209</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 06/21 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>API Horror Stories of an Unnamed Coworking Company, <a href="https://mastodon.green/@Philsturgeon" target="_blank" rel="noopener noreferrer">Phil Sturgeon</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>What’s New in PHPStan 1.0, <a href="https://phpc.social/@OndrejMirtes" target="_blank" rel="noopener noreferrer">Ondřej Mirtes</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 05/21]]></title>
-            <link>https://www.phpugmrn.de/meetups/20211028</link>
-            <guid>https://www.phpugmrn.de/meetups/20211028</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 05/21 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>PHP Development on Windows Subsystem for Linux, <a href="https://phpc.social/@joepferguson" target="_blank" rel="noopener noreferrer">Joe Ferguson</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://noti.st/lornajane/19mifK" target="_blank" rel="noopener noreferrer">Aiven for Laravel</a>, <a href="https://twitter.com/lornajane" target="_blank" rel="noopener noreferrer">Lorna Mitchell</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
