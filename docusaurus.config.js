@@ -81,6 +81,10 @@ const config = {
                 label: 'Mastodon',
                 href: 'https://phpc.social/@phpugmrn',
               },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@phpugmrn',
+              },
             ],
           },
           {
