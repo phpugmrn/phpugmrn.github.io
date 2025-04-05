@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkphpugmrn_web=self.webpackChunkphpugmrn_web||[]).push([["7627"],{2240:function(e){e.exports=JSON.parse('{"blogBasePath":"/meetups","blogTitle":"Unsere Meetups","authorsListPath":"/meetups/authors"}')}}]);
