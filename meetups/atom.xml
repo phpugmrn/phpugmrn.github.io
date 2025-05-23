@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.phpugmrn.de/meetups</id>
     <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
-    <updated>2025-04-24T00:00:00.000Z</updated>
+    <updated>2025-06-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.phpugmrn.de/meetups"/>
     <subtitle>PHP User Group Metropolregion Rhein-Neckar Blog</subtitle>
     <icon>https://www.phpugmrn.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PHPUGMRN 03/25]]></title>
+        <id>https://www.phpugmrn.de/meetups/20250626</id>
+        <link href="https://www.phpugmrn.de/meetups/20250626"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHPUGMRN 03/25 Meetup]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:05</td><td>Brille24 - Post Mortem, Max Pesch</td></tr><tr><td>19:50</td><td>Pause</td></tr><tr><td>20:00</td><td>Sylius &amp; Automation, let's dive in!, Jacques Bodin-Hullin</td></tr><tr><td>20:50</td><td>Pause</td></tr><tr><td>20:50</td><td>Sylius Stack Introduction, Stephan Hochdörfer</td></tr><tr><td>21:30</td><td>Abschluss &amp; Netzwerken</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Stephan Hochdörfer</name>
+            <uri>https://github.com/shochdoerfer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHPUGMRN 02/25]]></title>
         <id>https://www.phpugmrn.de/meetups/20250424</id>
@@ -234,18 +246,6 @@
         <updated>2022-04-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[PHPUGMRN 02/22 Meetup]]></summary>
         <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Code with confidence using PHPStan, <a href="https://twitter.com/pfwd" target="_blank" rel="noopener noreferrer">Peter Fisher</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://www.slideshare.net/DragonBe/gdpr-art-25-privacy-by-design-and-default" target="_blank" rel="noopener noreferrer">GDPR Art. 25 - Privacy by design and default</a>, <a href="https://phpc.social/@dragonbe" target="_blank" rel="noopener noreferrer">Michelangelo van Dam</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
-        <author>
-            <name>Stephan Hochdörfer</name>
-            <uri>https://github.com/shochdoerfer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPUGMRN 01/22]]></title>
-        <id>https://www.phpugmrn.de/meetups/20220224</id>
-        <link href="https://www.phpugmrn.de/meetups/20220224"/>
-        <updated>2022-02-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHPUGMRN 01/22 Meetup]]></summary>
-        <content type="html"><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Unit testing 101 (Interactive Session), <a href="https://phpc.social/@jaapio" target="_blank" rel="noopener noreferrer">Jaap Van Otterdijk</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td><a href="https://senseexception.github.io/schroedingers-sql/unkonf/" target="_blank" rel="noopener noreferrer">Schrödinger's SQL - The SQL inside the ORM/Builder box</a>, <a href="https://phpc.social/@SenseException" target="_blank" rel="noopener noreferrer">Claudio Zizza</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content>
         <author>
             <name>Stephan Hochdörfer</name>
             <uri>https://github.com/shochdoerfer</uri>
