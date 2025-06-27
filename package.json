@@ -28,7 +28,7 @@
     "react": "^19.0",
     "react-confetti-explosion": "^2.1.2",
     "react-custom-roulette": "^1.4.0",
-    "react-dom": "^19.0",
+    "react-dom": "^19.1",
     "react-player": "^2.16.0"
   },
   "devDependencies": {
