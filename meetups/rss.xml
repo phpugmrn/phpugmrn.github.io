@@ -4,10 +4,18 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 28 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[PHPUGMRN 05/25]]></title>
+            <link>https://www.phpugmrn.de/meetups/20251030</link>
+            <guid>https://www.phpugmrn.de/meetups/20251030</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 05/25 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>The one hour expression language, Dan Leech</td></tr><tr><td>20:30</td><td>Pause</td></tr><tr><td>20:45</td><td>Tideways Intro, Benjamin Außenhofer</td></tr><tr><td>21:30</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 04/25]]></title>
             <link>https://www.phpugmrn.de/meetups/20250828</link>
@@ -163,14 +171,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 04/22 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td><a href="https://talks.bitexpert.de/phpugdd22-phpstan/" target="_blank" rel="noopener noreferrer">The road to more resilience: an introduction to static code analysis</a>, <a href="https://phpc.social/@shochdoerfer" target="_blank" rel="noopener noreferrer">Stephan Hochdörfer</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 03/22]]></title>
-            <link>https://www.phpugmrn.de/meetups/20220630</link>
-            <guid>https://www.phpugmrn.de/meetups/20220630</guid>
-            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 03/22 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>To .phar or not to .phar, <a href="https://phpc.social/@heiglandreas" target="_blank" rel="noopener noreferrer">Andreas Heigl</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Preview: DDEV for PhpStorm, <a href="https://twitter.com/nloeb94" target="_blank" rel="noopener noreferrer">Nico Löber</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
