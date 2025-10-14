@@ -10,7 +10,6 @@ const config = {
   url: 'https://www.phpugmrn.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -26,6 +25,12 @@ const config = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de'],
+  },
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn'
+    }
   },
 
   presets: [
