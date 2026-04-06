@@ -4,10 +4,18 @@
         <title>PHP User Group Metropolregion Rhein-Neckar Blog</title>
         <link>https://www.phpugmrn.de/meetups</link>
         <description>PHP User Group Metropolregion Rhein-Neckar Blog</description>
-        <lastBuildDate>Thu, 26 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[PHPUGMRN 02/26]]></title>
+            <link>https://www.phpugmrn.de/meetups/20260430</link>
+            <guid>https://www.phpugmrn.de/meetups/20260430</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHPUGMRN 02/26 Meetup]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>18:00</td><td>Ankommen</td></tr><tr><td>18:30</td><td>Intro</td></tr><tr><td>18:45</td><td>PHP Profiler and Tideways Intro, Benjamin Eberlei</td></tr><tr><td>19:15</td><td>Laioutr Intro, Sebastian Langer</td></tr><tr><td>19:45</td><td>Pause</td></tr><tr><td>20:00</td><td>Mollie &amp; Sylius, Helge Wysoszynski</td></tr><tr><td>20:30</td><td>Your business model is expiring, and AI is accelerating that, Thomas Lohner</td></tr><tr><td>21:00</td><td>Pause</td></tr><tr><td>21:15</td><td>Sylius, but different, Stephan Hochdörfer</td></tr><tr><td>21:45</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PHPUGMRN 01/26]]></title>
             <link>https://www.phpugmrn.de/meetups/20260226</link>
@@ -163,14 +171,6 @@
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[PHPUGMRN 01/23 Meetup]]></description>
             <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Mental Health, <a href="https://twitter.com/LBajsarowicz" target="_blank" rel="noopener noreferrer" class="">Łukasz Bajsarowicz</a></td></tr><tr><td>20:30</td><td>kurze Pause</td></tr><tr><td>20:45</td><td>Deploy with Docker Compose, <a href="https://twitter.com/settermjd" target="_blank" rel="noopener noreferrer" class="">Matthew Setter</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PHPUGMRN 06/22]]></title>
-            <link>https://www.phpugmrn.de/meetups/20221215</link>
-            <guid>https://www.phpugmrn.de/meetups/20221215</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[PHPUGMRN 06/22 Meetup]]></description>
-            <content:encoded><![CDATA[<table><thead><tr><th>Uhrzeit</th><th></th></tr></thead><tbody><tr><td>19:00</td><td>Ankommen</td></tr><tr><td>19:30</td><td>Beginn/Vorstellungsrunde</td></tr><tr><td>19:45</td><td>Packages Anywhere! And They're Yours!, <a href="https://phpc.social/@adamculp" target="_blank" rel="noopener noreferrer" class="">Adam Culp</a></td></tr><tr><td>21:15</td><td>Abschluss</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>
