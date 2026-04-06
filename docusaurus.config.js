@@ -133,7 +133,7 @@ const config = {
       '@1password/docusaurus-plugin-stored-data',
       {
         data: {
-          "mastodon": "https://phpc.social/@phpugmrn.rss"
+          "mastodon": "https://phpc.social/@phpugmrn.rss?limit=10"
         }
       }
     ]
