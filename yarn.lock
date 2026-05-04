@@ -2604,7 +2604,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/types@npm:3.10.0, @docusaurus/types@npm:^3.10.0":
+"@docusaurus/types@npm:3.10.0":
   version: 3.10.0
   resolution: "@docusaurus/types@npm:3.10.0"
   dependencies:
@@ -2625,7 +2625,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/types@npm:3.10.1":
+"@docusaurus/types@npm:3.10.1, @docusaurus/types@npm:^3.10.1":
   version: 3.10.1
   resolution: "@docusaurus/types@npm:3.10.1"
   dependencies:
@@ -10444,7 +10444,7 @@ __metadata:
     "@docusaurus/faster": ^3.10.1
     "@docusaurus/module-type-aliases": ^3.10.0
     "@docusaurus/preset-classic": ^3.10.0
-    "@docusaurus/types": ^3.10.0
+    "@docusaurus/types": ^3.10.1
     "@mdx-js/react": ^3.1.1
     "@types/react": ^19.0
     clsx: ^2.1.1
